@@ -1,0 +1,91 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "demo",
+      "projectName": "Lab03_CSE221_eeb11ca0"
+    },
+    {
+      "type": "java",
+      "name": "G",
+      "request": "launch",
+      "mainClass": "G",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "H",
+      "request": "launch",
+      "mainClass": "H",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "F",
+      "request": "launch",
+      "mainClass": "F",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "E",
+      "request": "launch",
+      "mainClass": "E",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "D",
+      "request": "launch",
+      "mainClass": "D",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "C",
+      "request": "launch",
+      "mainClass": "C",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "B",
+      "request": "launch",
+      "mainClass": "B",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "A",
+      "request": "launch",
+      "mainClass": "A",
+      "projectName": "Lab03_802f8c1b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
